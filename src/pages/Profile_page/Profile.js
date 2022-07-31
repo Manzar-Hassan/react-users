@@ -39,7 +39,6 @@ const Profile = () => {
 
   return (
     <div className="d-flex justify-content-center align-items-center my-5">
-      {console.log(profile)}
       <Card
         className="my-2"
         style={{

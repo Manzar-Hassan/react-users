@@ -29,7 +29,6 @@ const Edit = () => {
         const url = `https://62dffcf0fa8ed271c47c281b.mockapi.io/Users/${id}`;
         const { data } = await axios.get(url);
         setProfile({ ...data });
-        console.log(data);
       } catch (error) {
         console.log(error);
       }
