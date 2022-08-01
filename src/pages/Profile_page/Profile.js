@@ -1,14 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import axios from "axios";
-import {
-  Button,
-  Card,
-  CardBody,
-  CardFooter,
-  CardHeader,
-  Spinner,
-} from "reactstrap";
+import { Button, Card, CardBody, CardFooter, CardHeader, Spinner } from "reactstrap";
 
 const Profile = () => {
   const [profile, setProfile] = useState({
