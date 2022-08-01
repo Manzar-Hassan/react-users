@@ -1,3 +1,19 @@
+# Some key points :
+
+Click on user icon on Navbar or user-icon on each list to redirect to home page
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
